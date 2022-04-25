@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/node_modules
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\Web Practices\Advance_SCSS3\nater\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
